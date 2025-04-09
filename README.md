@@ -6,3 +6,4 @@ I have scraped the Youtube comments for "Oppenheimer","Dunkirk", "Interstellar" 
 It asks the user for the product URL and the nUmber of reviews to be scraped for analysis.
 
 I have attached the IPYNB files. Please have a look.
+###NOTE: Run all files from 2nd block of code only. That is the proper scraping code.
